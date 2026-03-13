@@ -1,59 +1,11 @@
-Hi 👋 I'm Prem Kumar
+<h1 align="center">
+Hi 👋, I'm PremKumar
+</h1>
 
-🎓 B.Sc Information Technology Student
-💻 Aspiring Data Analyst
-📍 Tamil Nadu, India
+<h3 align="center">
+Aspiring Data Analyst | Web Developer
+</h3>
 
----
-
-🚀 About Me
-
-- 🎓 Studying Information Technology
-- 📊 Interested in Data Analytics
-- 💡 Learning Python, SQL, Power BI
-- 🌱 Improving data visualization skills
-- 🎯 Goal: Become a professional Data Analyst
-
----
-
-🛠 Skills
-
-- Python
-- SQL
-- HTML
-- CSS
-- Networking 
-- Excel
-- Power BI
-- Cloud
-
----
-
-📂 Projects
-
-🔹 3D Portfolio Website
-🔹 Bookmark Storage 
-🔹 Doc_Genie
-
----
-
-📫 Contact
-
-📧 Email: satheeshprem175@gmail.com
-🔗 GitHub: https://github.com/joy-127
-💼LinkedIn:https://www.linkedin.com/in/premkumar-it
-
-<!--
-**joy-127/joy-127** is a ✨ _special_ ✨ repository because its `README.md` 57166898r GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+I'm an IT student passionate about data analytics, web development, and technology. I enjoy building projects and learning modern tools.
+</p>
