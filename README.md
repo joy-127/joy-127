@@ -41,6 +41,7 @@ Hi 👋 I'm Prem Kumar
 
 📧 Email: satheeshprem175@gmail.com
 🔗 GitHub: https://github.com/joy-127
+💼LinkedIn:https://www.linkedin.com/in/premkumar-it
 
 <!--
 **joy-127/joy-127** is a ✨ _special_ ✨ repository because its `README.md` 57166898r GitHub profile.
